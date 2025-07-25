@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**sollamshu/sollamshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Automation Tools
+![Appium](https://img.shields.io/badge/Appium-DA6293?style=for-the-badge&logo=appium&logoColor=white)
+![Behave](https://img.shields.io/badge/Behave-777?style=for-the-badge)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-4F535A?style=for-the-badge&logo=browserstack&logoColor=white)
+![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![UFT (QTP)](https://img.shields.io/badge/UFT%20(QTP)-FFC300?style=for-the-badge&logo=microfocus&logoColor=black)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Protractor](https://img.shields.io/badge/Protractor-E03237?style=for-the-badge&logo=protractor&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![ReadyAPI](https://img.shields.io/badge/ReadyAPI-777?style=for-the-badge)
+![Rest Assured](https://img.shields.io/badge/Rest%20Assured-777?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-777?style=for-the-badge)
+![TestComplete](https://img.shields.io/badge/TestComplete-00A94F?style=for-the-badge&logo=smartbear&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
